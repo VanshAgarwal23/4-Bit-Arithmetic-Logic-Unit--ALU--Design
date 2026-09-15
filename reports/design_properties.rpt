@@ -1,0 +1,105 @@
+Property                 Type     Read-only  Value
+CLASS                    string   true       design
+CONSTRSET                fileset  true       constrs_1
+DCP_VERSION              string   true       Vivado v2026.1 (64-bit) SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+ENABLE_AIE_NETLIST_VIEW  bool     false      1
+ENABLE_NOC_NETLIST_VIEW  bool     false      1
+IS_BLOCK                 bool     true       0
+MLO_VERSION_NUMBER       string   false      2026.1_9
+NAME                     string   true       impl_1
+NEEDS_REFRESH            bool     true       0
+NEEDS_SAVE               bool     true       0
+PART                     part     true       xc7a35tcpg236-1
+SRCSET                   fileset  true       sources_1
+TELEMETRY_DATA           string   false      {
+                                               "Design Characteristics Data": {
+                                                 "Power Summary": {
+                                                   "Dynamic Power": {
+                                                     "Value": "2.469"
+                                                   },
+                                                   "Static Power": {
+                                                     "Value": "0.077"
+                                                   },
+                                                   "Total Power": {
+                                                     "Value": "2.546"
+                                                   }
+                                                 },
+                                                 "Simulation": {
+                                                   "Target Simulator": "XSim",
+                                                   "Run Time": {
+                                                     "behavioral ": "11.243000"
+                                                   }
+                                                 },
+                                                 "Timing Summary": {
+                                                   "Status": "There are no user specified timing constraints."
+                                                 },
+                                                 "Utilization Report": {
+                                                   "BRAM": {
+                                                     "Available": "50",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "BUFGCTRL": {
+                                                     "Available": "32",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "DSP": {
+                                                     "Available": "90",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "F7MUX": {
+                                                     "Available": "16300",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "F8MUX": {
+                                                     "Available": "8150",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "LUT": {
+                                                     "Available": "20800",
+                                                     "Utilization": "5"
+                                                   },
+                                                   "LUTAsLogic": {
+                                                     "Available": "20800",
+                                                     "Utilization": "5"
+                                                   },
+                                                   "LUTAsMem": {
+                                                     "Available": "9600",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "MMCM": {
+                                                     "Available": "5",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "PLL": {
+                                                     "Available": "5",
+                                                     "Utilization": "0"
+                                                   },
+                                                   "REG": {
+                                                     "Available": "41600",
+                                                     "Utilization": "0"
+                                                   }
+                                                 }
+                                               },
+                                               "Design Flow Data": {
+                                                 "Design Data": {
+                                                   "Design Mode": "Project flow",
+                                                   "Top Methodology": "Verilog"
+                                                 },
+                                                 "Implementation": {
+                                                   "Opt Design": {
+                                                     "Run Time": "17 seconds"
+                                                   },
+                                                   "Place Design": {
+                                                     "Run Time": "3.562000 seconds"
+                                                   },
+                                                   "Route Design": {
+                                                     "Run Time": "32.338000 seconds"
+                                                   }
+                                                 },
+                                                 "Synthesis": {
+                                                   "Run Time": "86.011002 seconds"
+                                                 }
+                                               }
+                                             }
+TOP                      string   true       logic_unit
+XLNX_PROJ_DIR            string   false      C:/Users/Test/Vivado_projects/4-bit ALU Design
