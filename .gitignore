@@ -1,0 +1,15 @@
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+.xpr/
+.xcix/
+
+*.jou
+*.log
+*.str
+*.backup.log
+*.debug
+
