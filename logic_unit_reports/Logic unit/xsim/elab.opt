@@ -1,1 +1,0 @@
---incr --debug typical --relax --mt 2  -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot logic_unit_tb xil_defaultlib.logic_unit_tb xil_defaultlib.glbl -log elaborate.log

@@ -1,0 +1,31 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Fri Sep 25 16:58:02 2026
+| Host         : HP_PAVILLION running 64-bit major release  (build 9200)
+| Command      : report_ram_utilization -file {C:/Users/Test/Vivado_projects/4-bit ALU Design/reports/14_post_impl_ram_utilization.txt}
+| Design       : alu_top
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+RAM Usage Information
+
+Table of Contents
+-----------------
+1. Summary
+
+1. Summary
+----------
+
++--------------------------+------------+-----------+-------+-----------+
+| Memory Type              | Total Used | Available | Util% | Inferred% |
++--------------------------+------------+-----------+-------+-----------+
+| BlockRAM                 |          0 |        50 |  0.00 |      0.00 |
+| LUTMs as Distributed RAM |          0 |      9600 |  0.00 |      0.00 |
++--------------------------+------------+-----------+-------+-----------+
+*  Each RAMB18 is calculated as 0.5 BlockRAM
+**  Tables 2, 3, 4 and 5 cover RAMs inferred by Vivado Synthesis using XPMs or RTL inference
+***  XRAMs are not reported for detailed tables
+
+
