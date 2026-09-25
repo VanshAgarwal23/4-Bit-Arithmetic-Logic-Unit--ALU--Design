@@ -13,3 +13,10 @@
 *.backup.log
 *.debug
 
+# Vivado generated directories
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
